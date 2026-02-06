@@ -1,0 +1,14 @@
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\CLASES_C-_SENA\bin\Debug\net8.0\CLASES_C-_SENA.exe
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\CLASES_C-_SENA\bin\Debug\net8.0\CLASES_C-_SENA.deps.json
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\CLASES_C-_SENA\bin\Debug\net8.0\CLASES_C-_SENA.runtimeconfig.json
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\CLASES_C-_SENA\bin\Debug\net8.0\CLASES_C-_SENA.dll
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\CLASES_C-_SENA\bin\Debug\net8.0\CLASES_C-_SENA.pdb
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\CLASES_C-_SENA\obj\Debug\net8.0\CLASES_C-_SENA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\CLASES_C-_SENA\obj\Debug\net8.0\CLASES_C-_SENA.AssemblyInfoInputs.cache
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\CLASES_C-_SENA\obj\Debug\net8.0\CLASES_C-_SENA.AssemblyInfo.cs
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\CLASES_C-_SENA\obj\Debug\net8.0\CLASES_C-_SENA.csproj.CoreCompileInputs.cache
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\CLASES_C-_SENA\obj\Debug\net8.0\CLASES_C-_SENA.dll
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\CLASES_C-_SENA\obj\Debug\net8.0\refint\CLASES_C-_SENA.dll
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\CLASES_C-_SENA\obj\Debug\net8.0\CLASES_C-_SENA.pdb
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\CLASES_C-_SENA\obj\Debug\net8.0\CLASES_C-_SENA.genruntimeconfig.cache
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\CLASES_C-_SENA\obj\Debug\net8.0\ref\CLASES_C-_SENA.dll
