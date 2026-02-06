@@ -1,0 +1,14 @@
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\Ejercicio_Registro\obj\Debug\net8.0\Ejercicio_Registro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\Ejercicio_Registro\obj\Debug\net8.0\Ejercicio_Registro.AssemblyInfoInputs.cache
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\Ejercicio_Registro\obj\Debug\net8.0\Ejercicio_Registro.AssemblyInfo.cs
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\Ejercicio_Registro\obj\Debug\net8.0\Ejercicio_Registro.csproj.CoreCompileInputs.cache
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\Ejercicio_Registro\bin\Debug\net8.0\Ejercicio_Registro.exe
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\Ejercicio_Registro\bin\Debug\net8.0\Ejercicio_Registro.deps.json
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\Ejercicio_Registro\bin\Debug\net8.0\Ejercicio_Registro.runtimeconfig.json
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\Ejercicio_Registro\bin\Debug\net8.0\Ejercicio_Registro.dll
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\Ejercicio_Registro\bin\Debug\net8.0\Ejercicio_Registro.pdb
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\Ejercicio_Registro\obj\Debug\net8.0\Ejercicio_Registro.dll
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\Ejercicio_Registro\obj\Debug\net8.0\refint\Ejercicio_Registro.dll
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\Ejercicio_Registro\obj\Debug\net8.0\Ejercicio_Registro.pdb
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\Ejercicio_Registro\obj\Debug\net8.0\Ejercicio_Registro.genruntimeconfig.cache
+C:\Users\SENA.DESKTOP-BMPOLTR\Desktop\c#\Ejercicio_Registro\obj\Debug\net8.0\ref\Ejercicio_Registro.dll

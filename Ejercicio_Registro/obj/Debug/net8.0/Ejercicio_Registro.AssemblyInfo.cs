@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CLASES_C-_SENA")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Ejercicio_Registro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95d744fd906f6f2133973efced50f27e6efd45fa")]
-[assembly: System.Reflection.AssemblyProductAttribute("CLASES_C-_SENA")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CLASES_C-_SENA")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("Ejercicio_Registro")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Ejercicio_Registro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
