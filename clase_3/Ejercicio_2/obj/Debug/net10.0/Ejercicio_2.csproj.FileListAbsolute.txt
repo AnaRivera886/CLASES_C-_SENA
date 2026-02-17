@@ -1,0 +1,15 @@
+/home/ana/Escritorio/csharp/CLASES_C-_SENA/clase_3/Ejercicio_2/bin/Debug/net10.0/Ejercicio_2
+/home/ana/Escritorio/csharp/CLASES_C-_SENA/clase_3/Ejercicio_2/bin/Debug/net10.0/Ejercicio_2.deps.json
+/home/ana/Escritorio/csharp/CLASES_C-_SENA/clase_3/Ejercicio_2/bin/Debug/net10.0/Ejercicio_2.runtimeconfig.json
+/home/ana/Escritorio/csharp/CLASES_C-_SENA/clase_3/Ejercicio_2/bin/Debug/net10.0/Ejercicio_2.dll
+/home/ana/Escritorio/csharp/CLASES_C-_SENA/clase_3/Ejercicio_2/bin/Debug/net10.0/Ejercicio_2.pdb
+/home/ana/Escritorio/csharp/CLASES_C-_SENA/clase_3/Ejercicio_2/obj/Debug/net10.0/Ejercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/ana/Escritorio/csharp/CLASES_C-_SENA/clase_3/Ejercicio_2/obj/Debug/net10.0/Ejercicio_2.AssemblyInfoInputs.cache
+/home/ana/Escritorio/csharp/CLASES_C-_SENA/clase_3/Ejercicio_2/obj/Debug/net10.0/Ejercicio_2.AssemblyInfo.cs
+/home/ana/Escritorio/csharp/CLASES_C-_SENA/clase_3/Ejercicio_2/obj/Debug/net10.0/Ejercicio_2.csproj.CoreCompileInputs.cache
+/home/ana/Escritorio/csharp/CLASES_C-_SENA/clase_3/Ejercicio_2/obj/Debug/net10.0/Ejercicio_2.sourcelink.json
+/home/ana/Escritorio/csharp/CLASES_C-_SENA/clase_3/Ejercicio_2/obj/Debug/net10.0/Ejercicio_2.dll
+/home/ana/Escritorio/csharp/CLASES_C-_SENA/clase_3/Ejercicio_2/obj/Debug/net10.0/refint/Ejercicio_2.dll
+/home/ana/Escritorio/csharp/CLASES_C-_SENA/clase_3/Ejercicio_2/obj/Debug/net10.0/Ejercicio_2.pdb
+/home/ana/Escritorio/csharp/CLASES_C-_SENA/clase_3/Ejercicio_2/obj/Debug/net10.0/Ejercicio_2.genruntimeconfig.cache
+/home/ana/Escritorio/csharp/CLASES_C-_SENA/clase_3/Ejercicio_2/obj/Debug/net10.0/ref/Ejercicio_2.dll

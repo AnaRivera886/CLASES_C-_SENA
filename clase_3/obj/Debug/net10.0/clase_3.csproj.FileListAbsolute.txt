@@ -1,0 +1,5 @@
+/home/ana/Escritorio/csharp/CLASES_C-_SENA/clase_3/obj/Debug/net10.0/clase_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/ana/Escritorio/csharp/CLASES_C-_SENA/clase_3/obj/Debug/net10.0/clase_3.AssemblyInfoInputs.cache
+/home/ana/Escritorio/csharp/CLASES_C-_SENA/clase_3/obj/Debug/net10.0/clase_3.AssemblyInfo.cs
+/home/ana/Escritorio/csharp/CLASES_C-_SENA/clase_3/obj/Debug/net10.0/clase_3.csproj.CoreCompileInputs.cache
+/home/ana/Escritorio/csharp/CLASES_C-_SENA/clase_3/obj/Debug/net10.0/clase_3.sourcelink.json
